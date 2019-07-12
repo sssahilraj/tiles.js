@@ -2,11 +2,11 @@
 *Give tile effect to your images*
 
 ## USAGE:
-* 1. Wrap your each images inside a div*
-* 2. assign a classname to all the images and wrapper div*
-* 3. Call tiles.js or tiles.min.js to your script*
-* 4. create an instance of object TilesEffect in script*
-* 5. select both the classes in script and pass them to instance of the object-*
+* Wrap your each images inside a div
+* assign a classname to all the images and wrapper div
+* Call tiles.js or tiles.min.js to your script
+* create an instance of object TilesEffect in script
+* select both the classes in script and pass them to instance of the object
 
 **Example**
 ```html
@@ -29,8 +29,8 @@ var img=document.getElementsByClassName('tiles-img');
 ```
 
 ## INSTRUCTION:
-* 1. we will set the width of the wrapper div containing images and not the images itself*
-* 2. no need to set height.It is in ratio to width*
+* we will set the width of the wrapper div containing images and not the images itself
+* no need to set height.It is in ratio to width
 
 **Example:**
 ```html
