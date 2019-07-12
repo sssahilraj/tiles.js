@@ -18,7 +18,7 @@
         <img src="demo2.jpg" class="tiles-img">
     </div>
 </body>
-<script src="tiles/tiles.min.js"></script>
+<script src="tiles.js-1.0/tiles.min.js"></script>
 <script>
 var wrapper=document.getElementsByClassName('tiles-wrapper');
 var img=document.getElementsByClassName('tiles-img');
@@ -64,7 +64,7 @@ var img=document.getElementsByClassName('tiles-img');
         <img src="demo2.jpg" class="tiles-img">
     </div>
 </body>
-<script src="tiles/tiles.min.js"></script>
+<script src="tiles.js-1.0/tiles.min.js"></script>
 <script>
 var wrapper=document.getElementsByClassName('tiles-wrapper');
 var img=document.getElementsByClassName('tiles-img');
